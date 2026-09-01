@@ -2,7 +2,7 @@
 
 void print_banner(void) {
     printf("Nebula Labs Workshop\n");
-    printf("C Calculator - [Diep T]\n");
+    printf("C Calculator - [Diep Tran]\n");
 }
 
 /* Adds a and b and returns the result */
